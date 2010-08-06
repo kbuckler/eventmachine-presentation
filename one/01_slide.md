@@ -191,12 +191,10 @@
 !SLIDE bullets incremental smallest
 # @Zendesk #
 * EventMachine is a big hammer and a lot of things are starting to look like nails.
-* The Twickets integration makes 1000+ calls to the Twitter API once a minute, each minute, from a single process.
+* The Twickets integration makes thousands of calls to the Twitter API once a minute, every minute, from a single process.
 * The proxy is ripe for a rewrite.
-* Chat - monitor/record Jabber sessions in Zendesk tickets.
 * Lightweight services.
 * Proxied backends.
-* `bundle list thin`
  
 !SLIDE
 # Thanks! #
